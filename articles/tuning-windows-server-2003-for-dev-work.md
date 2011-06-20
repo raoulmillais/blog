@@ -24,4 +24,4 @@ There is a video here explaining why these are safe to turn off and others which
 
 http://www.techrepublic.com/blog/itdojo/video-five-services-you-can-turn-off-in-windows-server-2003/129
 
-Obviously assigning at least 2 processors and 4Gb of RAM is more-or-less essential too if you don't want to tear your hair out!
+Obviously assigning at least 2 processors and 4Gb of RAM is more-or-less essential too if you don't want to tear your hair out!  You can also optimise your Visual Studio installations, there is a good question on stackoverflow: http://stackoverflow.com/questions/8440/visual-studio-optimizations addressing that.
