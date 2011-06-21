@@ -1,0 +1,34 @@
+{
+	"name": "raoulmillais.com", 
+	"version": "0.1.0",
+	"description"	: "Blog for raoulmillais.com",
+	"homepage": [ 
+		"http://www.raoulmillais.com/"
+	],
+	"repository": { 
+		"type" : "git",
+        "url"  : "https://github.com/raoulmillais/7blog.git"
+    },
+	"keywords": [
+		"blog", 
+		"nodejs",
+		"raoulmillais",
+		"dotnet"
+	],
+	"author": "Raoul Millais",
+	"maintainers": "Raoul Millais",
+	"licenses": [
+		"Creative Commons Attribution-ShareAlike 3.0",
+		"GPL 3.0"
+	],
+	"engines": [ "node >= 0.4.1" ],
+	"scripts": {
+		"start": "app.js"
+	},
+	"dependencies": {
+		"wheat": "0.2.0",
+		"connect": ">= 1.0.0",
+		"connect-gzip": "0.1.0"
+	},
+	"main": "app.js"
+}

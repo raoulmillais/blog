@@ -1,11 +1,10 @@
-var Connect = require('connect');
+var Connect = require('connect'),
+	gzip = require('connect-gzip');
 
 module.exports = Connect.createServer(
   Connect.logger(),
-  Connect.conditionalGet(),
   Connect.favicon(),
-  Connect.cache(),
-  Connect.gzip(),
+  gzip.gzip(),
   require('wheat')(__dirname)
 );
 
