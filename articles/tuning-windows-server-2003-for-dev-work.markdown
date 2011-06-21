@@ -1,5 +1,8 @@
-Tuning Windows Server 2003 For Development Work
-===============================================
+Title: Getting Started With Node.js
+Author: Raoul Millais
+Date: Mon Jun 20 2010 11:00:00 GMT-0000 (GMT)
+
+## Tuning Windows Server 2003 For Development Work
 
 If you are doing your .Net development work on Windows Server 2003 either as the host or inside a virtual machine You can get a decent speed increase if you tweak the performance settings, the default dev VM does not have these settings applied:
 
