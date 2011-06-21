@@ -3,8 +3,7 @@ Author: Raoul Millais
 Date: Tue Jun 14 2010 10:47:00 GMT-0000 (GMT)
 Node: v0.4.7
 
-Getting Started With Node.js
-============================
+## Getting Started With Node.js
 
 Recently, I've been asked by a few people for some info on getting up and running with nodejs.  So here goes.   The best blogs and websites I've come across are:
 
