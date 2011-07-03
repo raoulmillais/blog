@@ -3,3 +3,4 @@ npm-debug\.log
 \.eprj
 \.monitor
 *~
+nodemon-ignore
