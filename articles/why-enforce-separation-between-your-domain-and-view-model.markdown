@@ -1,3 +1,8 @@
+Title: Why Enforce Separation Between Your Domain and View Models?
+Author: Raoul Millais
+Date: Tue Jun 14 2010 10:47:00 GMT-0000 (GMT)
+Node: v0.4.7
+
 Why Enforce Separation Between Your Domain and View Models?
 =============================================================================
 
